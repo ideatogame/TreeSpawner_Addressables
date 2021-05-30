@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0a33cc0e05af98e43aea3fc4ed458413
+  m_SerializeEntries:
+  - m_GUID: 0a5f4931501e60d4fb504f3d38a1f673
+    m_Address: RPG/Tree03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1369031296425274, guid: 0a5f4931501e60d4fb504f3d38a1f673,
+      type: 3}
+    m_TargetAsset: {fileID: 1369031296425274, guid: 0a5f4931501e60d4fb504f3d38a1f673,
+      type: 3}
+  - m_GUID: 67787dc221c72734aadbcbaa3713045e
+    m_Address: RPG/Tree02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1458573784885960, guid: 67787dc221c72734aadbcbaa3713045e,
+      type: 3}
+    m_TargetAsset: {fileID: 1458573784885960, guid: 67787dc221c72734aadbcbaa3713045e,
+      type: 3}
+  - m_GUID: 8476fe1f8efb2b948a4ac4959474f209
+    m_Address: RPG/Tree01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1612273161005096, guid: 8476fe1f8efb2b948a4ac4959474f209,
+      type: 3}
+    m_TargetAsset: {fileID: 1612273161005096, guid: 8476fe1f8efb2b948a4ac4959474f209,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3fcb4f3550027ea49b42d5c2445aaa75, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 85e452499abaff946abd4f40acbedfcb, type: 2}
+    - {fileID: 11400000, guid: 0f7254adc5cd8c64ca6008e1a5d48ddb, type: 2}
