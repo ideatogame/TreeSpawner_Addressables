@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 0a33cc0e05af98e43aea3fc4ed458413
+  m_GUID: 993405ed70bacf345ae13806918b040c
   m_SerializeEntries:
   - m_GUID: 0a5f4931501e60d4fb504f3d38a1f673
-    m_Address: RPG/Tree03
+    m_Address: RPG/tree_pine01.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 1369031296425274, guid: 0a5f4931501e60d4fb504f3d38a1f673,
@@ -26,7 +26,7 @@ MonoBehaviour:
     m_TargetAsset: {fileID: 1369031296425274, guid: 0a5f4931501e60d4fb504f3d38a1f673,
       type: 3}
   - m_GUID: 67787dc221c72734aadbcbaa3713045e
-    m_Address: RPG/Tree02
+    m_Address: RPG/tree02.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 1458573784885960, guid: 67787dc221c72734aadbcbaa3713045e,
@@ -34,7 +34,7 @@ MonoBehaviour:
     m_TargetAsset: {fileID: 1458573784885960, guid: 67787dc221c72734aadbcbaa3713045e,
       type: 3}
   - m_GUID: 8476fe1f8efb2b948a4ac4959474f209
-    m_Address: RPG/Tree01
+    m_Address: RPG/tree01.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 1612273161005096, guid: 8476fe1f8efb2b948a4ac4959474f209,
@@ -42,8 +42,8 @@ MonoBehaviour:
     m_TargetAsset: {fileID: 1612273161005096, guid: 8476fe1f8efb2b948a4ac4959474f209,
       type: 3}
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 3fcb4f3550027ea49b42d5c2445aaa75, type: 2}
+  m_Settings: {fileID: 11400000, guid: b00b6f55f4148d94b801dedc1761d62b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 85e452499abaff946abd4f40acbedfcb, type: 2}
-    - {fileID: 11400000, guid: 0f7254adc5cd8c64ca6008e1a5d48ddb, type: 2}
+    - {fileID: 11400000, guid: 07388a5524f765e4191c030fa13f86df, type: 2}
+    - {fileID: 11400000, guid: 9370fee70a7289246905132313ce9c41, type: 2}
